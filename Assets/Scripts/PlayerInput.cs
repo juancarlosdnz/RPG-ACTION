@@ -14,13 +14,7 @@ public class PlayerInput : MonoBehaviour
     public bool inventario;
     public bool interactuar;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
     void Update()
     {
 
@@ -32,9 +26,6 @@ public class PlayerInput : MonoBehaviour
 
         ejeHorizontal = Input.GetAxis("Horizontal");
         ejeVertical = Input.GetAxis("Vertical");
-
-        Debug.Log("El eje horizontal "+ejeHorizontal);
-        Debug.Log("El eje horizontal "+ejeVertical);
 
     }
 }

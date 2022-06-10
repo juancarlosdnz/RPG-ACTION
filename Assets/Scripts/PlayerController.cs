@@ -6,14 +6,19 @@ public class PlayerController : MonoBehaviour
 {
     private PlayerInput playerInput;
     private Transform playerTransform;
-    public float velocidad;
     private float horizontal;
     private float vertical;
+    private Rigidbody2D playerRB;
+
+    [SerializeField] private float velocidad;
+
+    
 
     void Start()
     {
         playerInput = GetComponent<PlayerInput>();
         playerTransform = GetComponent<Transform>();
+        playerRB = GetComponent<Rigidbody2D>();
 
     }
 
@@ -23,8 +28,11 @@ public class PlayerController : MonoBehaviour
         horizontal = playerInput.ejeHorizontal;
         vertical = playerInput.ejeVertical;
 
-        Vector2 newPosition = playerTransform.position + new Vector3(velocidad * horizontal*Time.deltaTime, velocidad * vertical*Time.deltaTime, 0);
-        playerTransform.position = newPosition;
-        Debug.Log("Atacando usando player controller "+playerInput.atacar);
+        // Vector2 newPosition = playerTransform.position + new Vector3(velocidad * horizontal*Time.deltaTime, velocidad * vertical*Time.deltaTime, 0);
+        // playerTransform.position = newPosition;
+
+        Vector2 velocityVector = new Vector2(horizontal, vertical) * velocidad;
+        playerRB.velocity = velocityVector;
+
     }
 }

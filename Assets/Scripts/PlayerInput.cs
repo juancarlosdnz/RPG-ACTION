@@ -8,11 +8,11 @@ public class PlayerInput : MonoBehaviour
 
     public float ejeHorizontal;
     public float ejeVertical;
-    public bool atacar;
-    public bool habilidad1;
-    public bool habilidad2;
-    public bool inventario;
-    public bool interactuar;
+    [HideInInspector] public bool atacar;
+    [HideInInspector] public bool habilidad2;
+    [HideInInspector] public bool habilidad1;
+    [HideInInspector] public bool interactuar;
+    [HideInInspector] public bool inventario;
 
 
     void Update()

@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
     private float vertical;
     private Rigidbody2D playerRB;
     private bool backSide;
+    private Animator animator;
 
     [SerializeField] private float velocidad;
 
@@ -20,14 +21,24 @@ public class PlayerController : MonoBehaviour
         playerInput = GetComponent<PlayerInput>();
         playerTransform = GetComponent<Transform>();
         playerRB = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
 
     }
 
-    void Update(){
+    void Update()
+    {
 
         horizontal = playerInput.ejeHorizontal;
         vertical = playerInput.ejeVertical;
         backSide = (vertical > 0);
+        
+        bool isVerticalZero = (vertical != 0);
+
+        if (isVerticalZero)
+        {
+            animator.SetBool("Back", backSide);
+        }
+
     }
 
     void FixedUpdate()

@@ -1,121 +1,124 @@
 fileFormatVersion: 2
-guid: a8b4287ce0b38564b8a5c38b6250b24b
+guid: 6d89a74fe3a140542ba4f9e85ab1d545
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4437071881994959361
-    second: knight iso char_0
+      213: -303394548634283448
+    second: Caballero+Modificado_0
   - first:
-      213: -4925969714678911907
-    second: knight iso char_1
+      213: 3252071488510344325
+    second: Caballero+Modificado_1
   - first:
-      213: 5303643846532001539
-    second: knight iso char_2
+      213: -6216228573964068946
+    second: Caballero+Modificado_2
   - first:
-      213: 7806182272274437663
-    second: knight iso char_3
+      213: 8640979933168329954
+    second: Caballero+Modificado_3
   - first:
-      213: -5382206908656504108
-    second: knight iso char_4
+      213: -6393711482820296684
+    second: Caballero+Modificado_4
   - first:
-      213: -7613005435527052860
-    second: knight iso char_5
+      213: -1681480111846817531
+    second: Caballero+Modificado_5
   - first:
-      213: -3067645291965036042
-    second: knight iso char_6
+      213: 763886476858024703
+    second: Caballero+Modificado_6
   - first:
-      213: 7791297630827388200
-    second: knight iso char_7
+      213: 4197982341364555741
+    second: Caballero+Modificado_7
   - first:
-      213: 1583981070946766605
-    second: knight iso char_8
+      213: -960860219112978177
+    second: Caballero+Modificado_8
   - first:
-      213: -1287872230881312459
-    second: knight iso char_9
+      213: 90129597358564902
+    second: Caballero+Modificado_9
   - first:
-      213: -506773799869877224
-    second: knight iso char_10
+      213: -6955419783539224072
+    second: Caballero+Modificado_10
   - first:
-      213: -6448462687513506896
-    second: knight iso char_11
+      213: -5362013785816509335
+    second: Caballero+Modificado_11
   - first:
-      213: 5917111077666652026
-    second: knight iso char_12
+      213: -3834513107058754942
+    second: Caballero+Modificado_12
   - first:
-      213: -5747049275537388086
-    second: knight iso char_13
+      213: 8054817873666768718
+    second: Caballero+Modificado_13
   - first:
-      213: 3010258178088231284
-    second: knight iso char_14
+      213: -6266131156983473441
+    second: Caballero+Modificado_14
   - first:
-      213: -7955354168521106552
-    second: knight iso char_15
+      213: 3286056075941078044
+    second: Caballero+Modificado_15
   - first:
-      213: -8942291075325763553
-    second: knight iso char_16
+      213: -8473655946152875248
+    second: Caballero+Modificado_16
   - first:
-      213: -2416868336525821661
-    second: knight iso char_17
+      213: 7456700145887133725
+    second: Caballero+Modificado_17
   - first:
-      213: -279932718312071024
-    second: knight iso char_18
+      213: 4182355614180635779
+    second: Caballero+Modificado_18
   - first:
-      213: -2183885405667234357
-    second: knight iso char_19
+      213: -4149708152797317899
+    second: Caballero+Modificado_19
   - first:
-      213: -2686743838241455507
-    second: knight iso char_20
+      213: -5623037510990574769
+    second: Caballero+Modificado_20
   - first:
-      213: -945523123158869248
-    second: knight iso char_21
+      213: -7501197963573147611
+    second: Caballero+Modificado_21
   - first:
-      213: 5174498821980689861
-    second: knight iso char_22
+      213: -1498288275595532873
+    second: Caballero+Modificado_22
   - first:
-      213: -8375667399758866701
-    second: knight iso char_23
+      213: -3391756784708048419
+    second: Caballero+Modificado_23
   - first:
-      213: -2905320976025444623
-    second: knight iso char_24
+      213: -3978954976085421132
+    second: Caballero+Modificado_24
   - first:
-      213: -9149377109942846611
-    second: knight iso char_25
+      213: -9143092727012445165
+    second: Caballero+Modificado_25
   - first:
-      213: -5258309579313820801
-    second: knight iso char_26
+      213: -234722649948907593
+    second: Caballero+Modificado_26
   - first:
-      213: 1759411679467984853
-    second: knight iso char_27
+      213: 4086666912152559084
+    second: Caballero+Modificado_27
   - first:
-      213: -6494140404292777793
-    second: knight iso char_28
+      213: 2761563712355953588
+    second: Caballero+Modificado_28
   - first:
-      213: 642533730055142838
-    second: knight iso char_29
+      213: -9126099895943826154
+    second: Caballero+Modificado_29
   - first:
-      213: 5300698792022960033
-    second: knight iso char_30
+      213: 7313193665138335348
+    second: Caballero+Modificado_30
   - first:
-      213: -7898644507897402671
-    second: knight iso char_31
+      213: -8018676255492043084
+    second: Caballero+Modificado_31
   - first:
-      213: -1386507094573195571
-    second: knight iso char_32
+      213: 4204016779563630766
+    second: Caballero+Modificado_32
   - first:
-      213: -7620290069001200585
-    second: knight iso char_33
+      213: -929510164738206674
+    second: Caballero+Modificado_33
   - first:
-      213: -5623851869961747901
-    second: knight iso char_34
+      213: -5515087686815686016
+    second: Caballero+Modificado_34
   - first:
-      213: -8042754611445815119
-    second: knight iso char_35
+      213: -4031665608435118288
+    second: Caballero+Modificado_35
   - first:
-      213: -5535416146643541403
-    second: knight iso char_36
+      213: -6926314991365413897
+    second: Caballero+Modificado_36
   - first:
-      213: -5099988247661734785
-    second: knight iso char_37
+      213: 4051143151311691137
+    second: Caballero+Modificado_37
+  - first:
+      213: -5808525720289131278
+    second: Caballero+Modificado_38
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -146,7 +149,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -182,7 +185,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -194,7 +197,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -206,7 +209,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -218,7 +221,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -230,7 +233,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -241,7 +244,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: knight iso char_0
+      name: Caballero+Modificado_0
       rect:
         serializedVersion: 2
         x: 0
@@ -255,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff501d6c1aa5c62c0800000000000000
-      internalID: -4437071881994959361
+      spriteID: 8421dd5f3402acbf0800000000000000
+      internalID: -303394548634283448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_1
+      name: Caballero+Modificado_1
       rect:
         serializedVersion: 2
         x: 84
@@ -276,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5c2b36b4a073abb0800000000000000
-      internalID: -4925969714678911907
+      spriteID: 58cb5d0e9cda12d20800000000000000
+      internalID: 3252071488510344325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_2
+      name: Caballero+Modificado_2
       rect:
         serializedVersion: 2
         x: 168
@@ -297,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30fe9bf7af35a9940800000000000000
-      internalID: 5303643846532001539
+      spriteID: ea71d360c058bb9a0800000000000000
+      internalID: -6216228573964068946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_3
+      name: Caballero+Modificado_3
       rect:
         serializedVersion: 2
         x: 252
@@ -318,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f169edeea61255c60800000000000000
-      internalID: 7806182272274437663
+      spriteID: 2e4e6c3a77deae770800000000000000
+      internalID: 8640979933168329954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_4
+      name: Caballero+Modificado_4
       rect:
         serializedVersion: 2
         x: 336
@@ -339,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d230ed255f8e45b0800000000000000
-      internalID: -5382206908656504108
+      spriteID: 410092e1849f447a0800000000000000
+      internalID: -6393711482820296684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_5
+      name: Caballero+Modificado_5
       rect:
         serializedVersion: 2
         x: 420
@@ -360,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c1ca4e44eb295690800000000000000
-      internalID: -7613005435527052860
+      spriteID: 5018c744fbe2aa8e0800000000000000
+      internalID: -1681480111846817531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_6
+      name: Caballero+Modificado_6
       rect:
         serializedVersion: 2
         x: 504
@@ -381,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f9468b2cd88d65d0800000000000000
-      internalID: -3067645291965036042
+      spriteID: ff2e8d514bed99a00800000000000000
+      internalID: 763886476858024703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_7
+      name: Caballero+Modificado_7
       rect:
         serializedVersion: 2
         x: 588
@@ -402,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82d1fc84aef302c60800000000000000
-      internalID: 7791297630827388200
+      spriteID: ddf956692ba324a30800000000000000
+      internalID: 4197982341364555741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_8
+      name: Caballero+Modificado_8
       rect:
         serializedVersion: 2
         x: 0
@@ -423,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0f89b8446e6bf510800000000000000
-      internalID: 1583981070946766605
+      spriteID: ff887f8b8b65aa2f0800000000000000
+      internalID: -960860219112978177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_9
+      name: Caballero+Modificado_9
       rect:
         serializedVersion: 2
         x: 84
@@ -444,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 531ca3a870f802ee0800000000000000
-      internalID: -1287872230881312459
+      spriteID: 6266e4a2464304100800000000000000
+      internalID: 90129597358564902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_10
+      name: Caballero+Modificado_10
       rect:
         serializedVersion: 2
         x: 168
@@ -465,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 814f74df9e397f8f0800000000000000
-      internalID: -506773799869877224
+      spriteID: 8f19b6aee82697f90800000000000000
+      internalID: -6955419783539224072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_11
+      name: Caballero+Modificado_11
       rect:
         serializedVersion: 2
         x: 252
@@ -486,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bb8563e9557286a0800000000000000
-      internalID: -6448462687513506896
+      spriteID: 964d8a7fedc4695b0800000000000000
+      internalID: -5362013785816509335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_12
+      name: Caballero+Modificado_12
       rect:
         serializedVersion: 2
         x: 336
@@ -507,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7f79d8cc2dcd1250800000000000000
-      internalID: 5917111077666652026
+      spriteID: 28afe2f25a219cac0800000000000000
+      internalID: -3834513107058754942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_13
+      name: Caballero+Modificado_13
       rect:
         serializedVersion: 2
         x: 420
@@ -528,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acd8de012216e30b0800000000000000
-      internalID: -5747049275537388086
+      spriteID: e4fff5a0e2678cf60800000000000000
+      internalID: 8054817873666768718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_14
+      name: Caballero+Modificado_14
       rect:
         serializedVersion: 2
         x: 504
@@ -549,18 +552,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 471e92b2dd596c920800000000000000
-      internalID: 3010258178088231284
+      spriteID: fda1eff79ea3a09a0800000000000000
+      internalID: -6266131156983473441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_15
+      name: Caballero+Modificado_15
       rect:
         serializedVersion: 2
         x: 588
-        y: 255
+        y: 252
         width: 84
         height: 84
       alignment: 0
@@ -570,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88b50e27887e89190800000000000000
-      internalID: -7955354168521106552
+      spriteID: c146b7e379a6a9d20800000000000000
+      internalID: 3286056075941078044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_16
+      name: Caballero+Modificado_16
       rect:
         serializedVersion: 2
         x: 0
@@ -591,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f10ef0135a996e380800000000000000
-      internalID: -8942291075325763553
+      spriteID: 01b6ea4ffc6876a80800000000000000
+      internalID: -8473655946152875248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_17
+      name: Caballero+Modificado_17
       rect:
         serializedVersion: 2
         x: 84
@@ -612,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3293d749d0f857ed0800000000000000
-      internalID: -2416868336525821661
+      spriteID: d10c43086458b7760800000000000000
+      internalID: 7456700145887133725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_18
+      name: Caballero+Modificado_18
       rect:
         serializedVersion: 2
         x: 168
@@ -633,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 090eff30daa7d1cf0800000000000000
-      internalID: -279932718312071024
+      spriteID: 384f893a546ba0a30800000000000000
+      internalID: 4182355614180635779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_19
+      name: Caballero+Modificado_19
       rect:
         serializedVersion: 2
         x: 252
@@ -654,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcd6b055bc741b1e0800000000000000
-      internalID: -2183885405667234357
+      spriteID: 5f439fecb664966c0800000000000000
+      internalID: -4149708152797317899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_20
+      name: Caballero+Modificado_20
       rect:
         serializedVersion: 2
         x: 336
@@ -675,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d62062fc6b4c6bad0800000000000000
-      internalID: -2686743838241455507
+      spriteID: f4bc5b60d25f6f1b0800000000000000
+      internalID: -5623037510990574769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_21
+      name: Caballero+Modificado_21
       rect:
         serializedVersion: 2
         x: 420
@@ -696,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00b9235aab3d0e2f0800000000000000
-      internalID: -945523123158869248
+      spriteID: 528c657f13466e790800000000000000
+      internalID: -7501197963573147611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_22
+      name: Caballero+Modificado_22
       rect:
         serializedVersion: 2
         x: 504
@@ -717,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c516de43438fc740800000000000000
-      internalID: 5174498821980689861
+      spriteID: 7b5eef960c2053be0800000000000000
+      internalID: -1498288275595532873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_23
+      name: Caballero+Modificado_23
       rect:
         serializedVersion: 2
         x: 588
@@ -738,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f69d8840e6a3cb80800000000000000
-      internalID: -8375667399758866701
+      spriteID: dd9a4f2bc2f0ee0d0800000000000000
+      internalID: -3391756784708048419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_24
+      name: Caballero+Modificado_24
       rect:
         serializedVersion: 2
         x: 0
@@ -759,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fe138127f93ea7d0800000000000000
-      internalID: -2905320976025444623
+      spriteID: 4b3d729d789e7c8c0800000000000000
+      internalID: -3978954976085421132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_25
+      name: Caballero+Modificado_25
       rect:
         serializedVersion: 2
         x: 84
@@ -780,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6b34c57ef1e60180800000000000000
-      internalID: -9149377109942846611
+      spriteID: 31437f16b953d1180800000000000000
+      internalID: -9143092727012445165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_26
+      name: Caballero+Modificado_26
       rect:
         serializedVersion: 2
         x: 168
@@ -801,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7b47fd1c4bb607b0800000000000000
-      internalID: -5258309579313820801
+      spriteID: 7b79e055ef81ebcf0800000000000000
+      internalID: -234722649948907593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_27
+      name: Caballero+Modificado_27
       rect:
         serializedVersion: 2
         x: 252
@@ -822,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d7dc58c99faa6810800000000000000
-      internalID: 1759411679467984853
+      spriteID: ced123e87e1c6b830800000000000000
+      internalID: 4086666912152559084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_28
+      name: Caballero+Modificado_28
       rect:
         serializedVersion: 2
         x: 336
@@ -843,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb80e90b5bd20e5a0800000000000000
-      internalID: -6494140404292777793
+      spriteID: 4bbe593a09b035620800000000000000
+      internalID: 2761563712355953588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_29
+      name: Caballero+Modificado_29
       rect:
         serializedVersion: 2
         x: 420
@@ -864,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bdb420f50dbae800800000000000000
-      internalID: 642533730055142838
+      spriteID: 615f98d2f74995180800000000000000
+      internalID: -9126099895943826154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_30
+      name: Caballero+Modificado_30
       rect:
         serializedVersion: 2
         x: 504
@@ -885,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a7eedf877ddf8940800000000000000
-      internalID: 5300698792022960033
+      spriteID: 47e153834eead7560800000000000000
+      internalID: 7313193665138335348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_31
+      name: Caballero+Modificado_31
       rect:
         serializedVersion: 2
         x: 588
@@ -906,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1da6fab3ba0626290800000000000000
-      internalID: -7898644507897402671
+      spriteID: 4be898e2e60f7b090800000000000000
+      internalID: -8018676255492043084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_32
+      name: Caballero+Modificado_32
       rect:
         serializedVersion: 2
         x: 0
@@ -927,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dced76db42322cce0800000000000000
-      internalID: -1386507094573195571
+      spriteID: ea00ca7bcfaa75a30800000000000000
+      internalID: 4204016779563630766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_33
+      name: Caballero+Modificado_33
       rect:
         serializedVersion: 2
         x: 84
@@ -948,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73c1fb76e8a4f3690800000000000000
-      internalID: -7620290069001200585
+      spriteID: e241aaf0e67b913f0800000000000000
+      internalID: -929510164738206674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_34
+      name: Caballero+Modificado_34
       rect:
         serializedVersion: 2
         x: 168
@@ -969,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 342838d458014f1b0800000000000000
-      internalID: -5623851869961747901
+      spriteID: 082683218f87673b0800000000000000
+      internalID: -5515087686815686016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_35
+      name: Caballero+Modificado_35
       rect:
         serializedVersion: 2
         x: 252
@@ -990,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b823211b45626090800000000000000
-      internalID: -8042754611445815119
+      spriteID: 03fc0146d75ac08c0800000000000000
+      internalID: -4031665608435118288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_36
+      name: Caballero+Modificado_36
       rect:
         serializedVersion: 2
         x: 336
@@ -1011,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 562a95fa7504e23b0800000000000000
-      internalID: -5535416146643541403
+      spriteID: 7f3a3396639c0ef90800000000000000
+      internalID: -6926314991365413897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight iso char_37
+      name: Caballero+Modificado_37
       rect:
         serializedVersion: 2
         x: 420
@@ -1032,8 +1035,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f74947ba5b33939b0800000000000000
-      internalID: -5099988247661734785
+      spriteID: 18d90347b3d883830800000000000000
+      internalID: 4051143151311691137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4427dd1a8f36fa0800000000000000
+      internalID: -5808525720289131278
       vertices: []
       indices: 
       edges: []

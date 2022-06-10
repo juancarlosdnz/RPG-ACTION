@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     private float horizontal;
     private float vertical;
     private Rigidbody2D playerRB;
+    private bool backSide;
 
     [SerializeField] private float velocidad;
 
@@ -22,11 +23,15 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
+    void Update(){
+
         horizontal = playerInput.ejeHorizontal;
         vertical = playerInput.ejeVertical;
+        backSide = (vertical > 0);
+    }
+
+    void FixedUpdate()
+    {
 
         // Vector2 newPosition = playerTransform.position + new Vector3(velocidad * horizontal*Time.deltaTime, velocidad * vertical*Time.deltaTime, 0);
         // playerTransform.position = newPosition;
@@ -35,4 +40,6 @@ public class PlayerController : MonoBehaviour
         playerRB.velocity = velocityVector;
 
     }
+
+    
 }

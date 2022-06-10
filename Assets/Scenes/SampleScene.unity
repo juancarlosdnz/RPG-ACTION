@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 74882820}
   - component: {fileID: 74882819}
   - component: {fileID: 74882821}
+  - component: {fileID: 74882822}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -225,6 +226,19 @@ MonoBehaviour:
   habilidad2: 0
   inventario: 0
   interactuar: 0
+--- !u!114 &74882822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74882818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0650198246ee9f419a2cb73ee52814b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidad: 8
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0

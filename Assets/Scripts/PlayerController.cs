@@ -6,6 +6,9 @@ public class PlayerController : MonoBehaviour
 {
     private PlayerInput playerInput;
     private Transform playerTransform;
+    public float velocidad;
+    private float horizontal;
+    private float vertical;
 
     void Start()
     {
@@ -17,8 +20,11 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        playerInput.atacar = false;
-        playerTransform.position= new Vector3(5, 5, 5);
+        horizontal = playerInput.ejeHorizontal;
+        vertical = playerInput.ejeVertical;
+
+        Vector2 newPosition = playerTransform.position + new Vector3(velocidad * horizontal*Time.deltaTime, velocidad * vertical*Time.deltaTime, 0);
+        playerTransform.position = newPosition;
         Debug.Log("Atacando usando player controller "+playerInput.atacar);
     }
 }

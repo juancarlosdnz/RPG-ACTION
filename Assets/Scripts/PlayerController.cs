@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
         playerRB = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         playerSprite = GetComponent<SpriteRenderer>();
-        walkHashCode = Animator.StringToHash("Corriendo")
+        walkHashCode = Animator.StringToHash("Corriendo");
 
     }
 
@@ -41,6 +41,7 @@ public class PlayerController : MonoBehaviour
         {
             AssignXY();
             animator.SetBool(walkHashCode, true);
+            
 
         }
         else{

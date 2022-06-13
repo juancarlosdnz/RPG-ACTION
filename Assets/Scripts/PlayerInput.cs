@@ -5,14 +5,13 @@ using UnityEngine;
 
 public class PlayerInput : MonoBehaviour
 {
-
-    public float ejeHorizontal;
-    public float ejeVertical;
-    [HideInInspector] public bool atacar;
-    [HideInInspector] public bool habilidad2;
-    [HideInInspector] public bool habilidad1;
-    [HideInInspector] public bool interactuar;
-    [HideInInspector] public bool inventario;
+    [HideInInspector] public float ejeHorizontal {get; private set;}
+    [HideInInspector] public float ejeVertical {get; private set;}
+    [HideInInspector] public bool atacar {get; private set;}
+    [HideInInspector] public bool habilidad2 {get; private set;}
+    [HideInInspector] public bool habilidad1 {get; private set;}
+    [HideInInspector] public bool interactuar {get; private set;}
+    [HideInInspector] public bool inventario {get; private set;}
 
 
     void Update()

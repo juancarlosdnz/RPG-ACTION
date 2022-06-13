@@ -222,13 +222,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c22f2951cbfa2cd45bff73cae5f8ca7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ejeHorizontal: 0
-  ejeVertical: 0
-  atacar: 0
-  habilidad2: 0
-  habilidad1: 0
-  interactuar: 0
-  inventario: 0
 --- !u!114 &74882822
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -406,13 +399,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c22f2951cbfa2cd45bff73cae5f8ca7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ejeHorizontal: 0
-  ejeVertical: 0
-  atacar: 0
-  habilidad2: 0
-  habilidad1: 0
-  interactuar: 0
-  inventario: 0
 --- !u!212 &222758798
 SpriteRenderer:
   m_ObjectHideFlags: 0
